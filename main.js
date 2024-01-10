@@ -5,7 +5,8 @@ const { autoUpdater, AppUpdater } = require("electron-updater");
 
 let curWindow;
 
-//Basic flags
+
+//Basic flags uiea iu
 autoUpdater.autoDownload = false;
 autoUpdater.autoInstallOnAppQuit = true;
 
